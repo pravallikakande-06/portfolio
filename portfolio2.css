@@ -1,0 +1,33 @@
+body{background-color:#e7fafc;
+padding:20px;}
+h1{color:#222;text-align: center;font-size:40px}
+p{text-align: center;font-size: 20px;}
+nav {text-align:center;}
+nav a{margin:0px 20px ;border:1px solid ;padding:8px;font-weight: bold;color:#222;border-radius: 10px;}
+hr{margin:30px auto;width:800px ;border-top: 2px solid ;}
+section{background-color:white;width:800px;margin:30px auto;padding:20px;border-radius:20px;box-shadow: 0 4px 12px rgba(252,116,202);}
+figure{text-align: center;}
+figure img{ border-radius:50%;border:5px solid #222;}
+figcaption{font-size:20px;}
+section h2{border-bottom:2px solid black;padding-bottom:5px;}
+article{ transition:transform 0.8s;padding:20px;box-shadow: 0 3px 12px cyan;border-left:3px solid blue;border-radius: 10px;margin-bottom:20px;}
+article:hover{transform: translateX(-10px);}
+h3{font-size: 30px;}
+details{margin-top: 30px;}
+summary{font-size:20px;font-weight:bold;}
+a{text-decoration: none;}
+nav a:hover{background-color: aqua;color:white}
+h1:hover{text-decoration:underline;}
+li {font-size:20px;background-color:#e7fafc;border-radius:5px;padding:10px;margin:20px 0px;}
+ul{list-style-type:none ;}
+li:hover{background-color:aqua}
+ol{list-style-type:none ;}
+h2:hover{background-color:aqua}
+p:hover{color:black;font-weight:bold;}
+span:hover{font-weight: bold;}
+form{text-align:center;font-size:20px}
+input,textarea{width:100%;padding:5px;}
+button{margin-left:30px;padding:10px;background-color:#e7fafc;font-weight:bold;border-radius: 20px;}
+button:hover{background-color:aqua;}
+h1{transition: all 1s ease;}
+h1:hover{transform:scale(1.6);}
